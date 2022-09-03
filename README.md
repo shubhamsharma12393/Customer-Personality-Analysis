@@ -17,9 +17,9 @@ Data Science and Artificial Intelligence are revolutionizing the world through t
 With the availability of high-dimensional and fine-grained data about human behavior, it becomes too handy to research and observe human behavior. Using mobile sensing studies, data collected from our day-to-day activities have drastically altered how psychologists perform research and undertake personality assessments. Machine learning models are a boon to researchers and are used to learn highly complex relationships and evaluate their generalizability and robustness using the resampling method. It has the potential to transform research and assessment in personality psychology. Algorithms can handle vast datasets, including thousands of attributes, without succumbing to co-linearity issues. Moreover, ML algorithms are highly efficient in recognizing patterns in datasets that humans cannot even perceive. The use of these ML models can lead to better, more objective, and automated personality assessments.
 People interact and express their likes, thoughts, feelings, and opinions on social media, capturing their personality traits. Machine Learning models have been actively using such a wide range of data to predict individuals. Various supervised machine learning algorithms like Naïve Bayes and Support Vector Machines are widely used among industries to predict personality traits. Moreover, recently, researchers have started to apply unsupervised learning methods to identify other psychological constructs in digital data. 
 
-Context
 
-Problem Statement
+
+# Problem Statement
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
